@@ -1,3 +1,7 @@
+> [!WARNING]
+> The Blue Brain Project concluded in December 2024, so development has ceased under the BlueBrain GitHub organization.
+> Future development will take place at: https://github.com/openbraininstitute/me-model-analysis
+
 # me-model-analysis
 
 ### Repo that contains the code to run me-model-analysis using on-demand service in AWS
